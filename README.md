@@ -1,4 +1,4 @@
 # Frontend-Mentor ProJects
 # HTML/CSS
-##### [Qr Code Component](HtmlCss/product-preview-card-component-main)
+##### [product-preview-card-component](HtmlCss/product-preview-card-component-main)
 ##### [Qr Code Component](/HtmlCss/qr-code-component-main/)
